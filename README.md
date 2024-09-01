@@ -4,7 +4,7 @@ The purpose of this project is to practice exploratory data analysis (EDA) .
 
 ## Goals of the Project:
 
-1. Explore a banking dataset with Pandas.
+1. Explore a weather dataset with Pandas.
 2. Identify correlations.
 3. Visualize the dataset.
 
